@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<meta charset="utf-8">
+
+	<title></title>
+	<style type="text/css">
+
+	td{
+		text-align: center;
+	}
+	.container-fluid{
+		color: navy;
+	}
+
+
+	</style>
+</head>
+<body style="margin-right: 5px">
+<ul class="nav nav-tabs">
+<li class="active"><a href="#">Confirmar Invitaciones</a></li>
+</ul>
+<br>
+<div class="container-fluid">
+<div class="row">
+	<img src="C:\Users\USER\Documents\logo1.jpg" class="col-xs-2 img-thumbnail" alt="140x140">
+	<div class="col-xs-6">
+		<p>Función</p>
+		<p>Nombre</p>
+	</div>
+	
+	<button class="btn btn-default col-xs-1 col-xs-offset-3" style=""><b>Salir</b></button>
+	</div>
+<br>
+<ul class="nav nav-tabs">
+<li class="active"><a href="#">Invitaciones</a></li>
+</ul>
+<br>
+<table class="table table-stripped">
+<tr><td >Titulo</td><td ><button class="btn btn-default"><b>Ver detalle de propuesta</b></button></td><td><button class="btn btn-default"><b>Confirmar<b/></button></td><td><button class="btn btn-default"><b>Rechazar</b></button></td></tr>
+</table>
+
+
+
+</div>
+
+
+</body>
+</html>
